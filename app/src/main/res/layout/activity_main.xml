@@ -56,7 +56,7 @@
         android:layout_marginEnd="0dp"
         android:layout_marginBottom="19dp"
         android:backgroundTint="#C30000"
-        android:text="End Quiz"
+        android:text="End"
         android:textColor="#050404"
         android:textStyle="bold" />
     <Button
